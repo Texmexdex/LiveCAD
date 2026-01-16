@@ -22,7 +22,7 @@ Unlike standard boolean-based CAD, LiveCAD utilizes mathematical mesh constructi
 ### Quick Start
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/LiveCAD.git](https://github.com/YourUsername/LiveCAD.git)
+    git clone https://github.com/Texmexdex/LiveCAD.git
     cd LiveCAD
     ```
 2.  **Initialize Environment:**
