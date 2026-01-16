@@ -1,0 +1,8 @@
+PyQt6
+pyvista
+pyvistaqt
+trimesh
+numpy
+scipy
+shapely
+mapbox_earcut
