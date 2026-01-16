@@ -12,6 +12,8 @@ Unlike standard boolean-based CAD, LiveCAD utilizes mathematical mesh constructi
 * **Local & Secure:** Runs entirely offline. No cloud dependencies, no API keys required within the app.
 * **Robust Dependencies:** Pre-configured with `mapbox_earcut` and `shapely` for complex 2D-to-3D extrusions (Torx heads, gears, brackets).
 * **Direct STL Export:** One-click export to STL for slicers (Orca, Cura, PrusaSlicer).
+<img width="2560" height="1342" alt="NVIDIA_Overlay_o8NN5wfVtS" src="https://github.com/user-attachments/assets/1240fff2-66b7-41f0-9745-ff06dbac66b5" />
+
 
 ## 🛠️ Installation
 
